@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Full-stack web applications with AI integration and strengthening my DSA & system design fundamentals.<br><br>👯 I’m looking to collaborate on<br>AI-based projects, innovative web apps, and beginner-friendly open source contributions.<br><br>🤝 I’m looking for help with<br>Advanced backend architecture, scalable system design, and optimizing AI models for real-world use.<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, React, Node.js, databases, and core AI concepts.<br><br><br><br>⚡ Fun fact<br>I believe consistency beats talent — so I build, break, and rebuild until it works.
+🔭 I’m currently working on<br>Full-stack web applications with AI integration and strengthening my DSA & system design fundamentals.<br><br>👯 I’m looking to collaborate on<br>AI-based projects, innovative web apps, and beginner-friendly open source contributions.<br><br>🤝 I’m looking for help with<br>Advanced backend architecture, scalable system design, and optimizing AI models for real-world use.<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, React, Node.js, databases, and core AI concepts.<br><br>⚡ Fun fact<br>I believe consistency beats talent — so I build, break, and rebuild until it works.
 
 
 ## 🌐 Socials:
